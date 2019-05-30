@@ -1,0 +1,186 @@
+# depslib dependency file v1.0
+1557524738 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1557524778 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss\gauss.h
+	<stdbool.h>
+
+1557524824 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1557524738 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1557524778 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss2\gauss.h
+	<stdbool.h>
+
+1557535870 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss2\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1557535870 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss1c\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1557524778 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss1c\gauss.h
+	<stdbool.h>
+
+1557626340 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss1c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1557535870 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss1d\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1557524778 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss1d\gauss.h
+	<stdbool.h>
+
+1557626862 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss1d\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1557626862 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss2b\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1557524778 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss2b\gauss.h
+	<stdbool.h>
+
+1557626862 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss2c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1557524778 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\gauss\gauss2c\gauss.h
+	<stdbool.h>
+
+1558100141 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\gauss2c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1558099822 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\gauss2c\gauss.h
+	<stdbool.h>
+
+1558470970 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex1\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1558469796 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex1\gauss.h
+	<stdbool.h>
+
+1558360834 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1558471932 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1558469796 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex2\gauss.h
+	<stdbool.h>
+
+1558642244 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex2\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1558642473 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex_teste\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1558469796 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex_teste\gauss.h
+	<stdbool.h>
+
+1559163010 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
+1558469796 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex3\gauss.h
+	<stdbool.h>
+
+1559164373 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex3\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1559164596 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex_teste3\gauss.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"gauss.h"
+
+1558469796 c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex_teste3\gauss.h
+	<stdbool.h>
+
+1559164890 source:c:\users\usuário\documents\computação\unicentro\2019-1\pesquisa operacional\implementação\simplex\simplex_teste3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"gauss.h"
+
